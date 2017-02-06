@@ -9,14 +9,24 @@
 
     <style>
         .label {
-            font-size: 150%;
+            font-size: 110%;
             color: darkslategrey;
+        }
+
+        .para {
+          font-size: 23px;
+          color: steelblue;
+        }
+
+        .lg {
+          font-size: 15px;
         }
     </style>
 </head>
 
 <body>
     {% include header.html %}
+
 
     <div class="container">
 
@@ -35,8 +45,66 @@
 
             </div>
         </div>
+    </div>
+
+      <div class="container">
+            <div id="instruction_guide">
+
+            <h1>Workshop Preparation Guide</h1>
+
+          </br>
+            <p class='para'>Before attending the workshop, you <b>MUST</b>  prepare the required environment, <b>OTHERWISE YOU CAN NOT ATTEND THE WORKSHOP.</b></p>
+
+            <p class='para'>If any problem occurs during installing the required softwares please contact the instructors <b>BEFORE</b> the workshop.</p>
+
+
+            <h2>Required Software</h2>
+
+            <ol class='lg'>
+                 <li>Python 3</li>
+                 <li>Flask library</li>
+                 <li>jinja2 template engine</li>
+                 <li>Arduino IDE</li>
+                 <li>PyCharm IDE</li>
+                 <li>RealTerm Serial/TCP Terminal <li>Emulator</li>
+            </ol>
+
+            <h2>Installation Instructions</h2>
+
+            <p class="para">
+              The instructions are given assuming you’re all Windows OS users, if you need an instruction for Ubuntu / Linux distros as well; please let me know.
+            </p>
+
+            <br/>
+
+            <p class="para">
+                [Disclaimer: If you’re a Python 2 user and reluctant to change it, I’d suggest you to modify the codes corresponding to your python version]
+            </p>
+
+            <h3>1. Python 3</h3>
+
+            
+
+          </div>
 
     </div>
+
+    <div class="container">
+        <h1>Workshop Outline</h1>
+
+        <br/>
+
+        <p class="para">Topics we are going to discuss at the workshop</p>
+    </div>
+
+
+
+    <script>
+        $(document).ready(function() {
+
+        });
+    </script>
+
     {% include bootstrapjs.html %}
 
 
