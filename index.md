@@ -35,6 +35,7 @@ If any problem occurs during installing the required softwares please contact to
 * Arduino IDE
 * PyCharm IDE
 * RealTerm Serial/TCP Terminal Emulator
+* MATLAB
 
 <br/>
 
@@ -142,6 +143,14 @@ Download and install RealTerm, [from here](https://sourceforge.net/projects/real
 
 <br/>
 
+# Reading Materials 
+---
+
+Studying this materials will be helpful for participating the workshop.
+
+1. [How Web Works](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c?source=bookmarks---------1----------){:target="_blank"}
+2. [Arduino Bangla Book](https://arduino.howtocode.com.bd/){:target="_blank"}
+3. [Python Bangla Book](https://python.howtocode.com.bd/){:target="_blank"}
 
 # Workshop Outline 
 ---
@@ -179,7 +188,7 @@ Download and install RealTerm, [from here](https://sourceforge.net/projects/real
   <div class="tab-pane fade" id="mentors">
     <h1>Md. Samiul Haque Sunny</h1>
     <h2>Department of EEE, 2K12</h2>
-    
+
     <br/>
 
     <h1>Manash Kumar Mandal</h1>
