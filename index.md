@@ -172,13 +172,18 @@ Download and install RealTerm, [from here](https://sourceforge.net/projects/real
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="organizer">
-    <h1>Al-Amin Badal </h1>
-
+    <h1>Al-Amin Badal</h1>
     <h2>Department of EEE, 2K11</h2>
+
   </div>
   <div class="tab-pane fade" id="mentors">
     <h1>Md. Samiul Haque Sunny</h1>
-
+    <h2>Department of EEE, 2K12</h2>
+    
     <br/>
+
+    <h1>Manash Kumar Mandal</h1>
+    <h2>Department of EEE, 2K12</h2>
+
   </div>
 </div>
