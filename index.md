@@ -211,11 +211,16 @@ Studying this materials will be helpful for participating the workshop.
 
 <br/>
 <ul class="nav nav-tabs">
-  <li class="active"><a href="#organizer" data-toggle="tab">Organizer</a></li>
+  <li class="active"><a href="#organizer" data-toggle="tab">Organizers</a></li>
   <li><a href="#mentors" data-toggle="tab">Mentors</a></li>
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="organizer">
+    <h1>Md. Shamim Sarker</h1>
+    <h2>Lecturer, Department of EEE</h2>
+
+    <br/>
+
     <h1>Al-Amin Badal</h1>
     <h2>Department of EEE, 2K11</h2>
 
