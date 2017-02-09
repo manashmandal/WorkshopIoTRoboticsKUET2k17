@@ -175,6 +175,41 @@ Studying this materials will be helpful for participating the workshop.
 
 
 <br/>
+
+# Frequently Asked Questions 
+---
+
+## 1. Can 2k16 join?
+
+### Answer
+
+> No, workshop of 2k16 will be taken later by 2k15/2k14/2k13.
+
+## 2. I don't know Python programming language, can I join?
+
+### Answer
+
+> There will be a quick refresher on Python language, if you have a good foundation on programming at any language you can surely join. **Studying the reading materials before joining the workshop will definitely smooth your experience at the workshop.**
+
+## 3. I don't know programming, can I join?
+
+### Answer
+
+> NO!
+
+## 4. I don't have any previous experience in embedded systems, can I join?
+
+### Answer
+
+> Sure.
+
+## 5. Can I attend the workshop without configuring the required environment?
+
+### Answer
+
+> A big NO. If you can't configure an environment most likely you're not interested. You can always contact the mentors if  you run into any problems or post on the facebook event.
+
+<br/>
 <ul class="nav nav-tabs">
   <li class="active"><a href="#organizer" data-toggle="tab">Organizer</a></li>
   <li><a href="#mentors" data-toggle="tab">Mentors</a></li>
