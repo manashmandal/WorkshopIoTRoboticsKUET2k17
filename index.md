@@ -26,7 +26,7 @@ If any problem occurs during installing the required softwares please contact to
 <br/>
 
 
-# Required softwares
+# Required software
 ---
 
 * Python 3
