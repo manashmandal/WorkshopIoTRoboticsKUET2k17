@@ -36,6 +36,7 @@ If any problem occurs during installing the required softwares please contact to
 * PyCharm IDE
 * RealTerm Serial/TCP Terminal Emulator
 * MATLAB
+* Visual Studio Code [Code Editor]
 
 <br/>
 
@@ -131,6 +132,10 @@ Download and install the [PyCharm IDE from here](https://www.jetbrains.com/pycha
 ---
 Download and install RealTerm, [from here](https://sourceforge.net/projects/realterm/){:target="_blank"}.
 
+# 7. Visual Studio Code 
+---
+Download and install [Visual Studio Code from here.](https://code.visualstudio.com/){:target="_blank"}
+
 <br/>
 
 # What you *MUST* bring at the workshop!
@@ -159,15 +164,23 @@ Studying this materials will be helpful for participating the workshop.
 
 | | Topic | Track | Date | Supplementary Code |
 |-|-------|-------|------|--------------------|
-|1|Quick refresher on Python 3 | `Intermediate` | | |
-|2| Getting Started with IoT | `Intermediate` | | |
-|3| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | |
-|4| Writing a simple web application in `Flask` | `Intermediate` | | |
-|5| Sending sensor value to the web app | `Intermediate` | | |
-|6| Plotting sensor value on the web app | `Intermediate` | | |
-|7| Working with a real server | `Intermediate` | | |
-|8| Getting to know about `MQTT` | `Intermediate` | | |
-|9| Project Distribution | | | |
+|-| Introduction to Robotics | `Beginner` | | | 
+|-| Refresher on Arduino | `Beginner` | | |
+|-| Interfacing Components using Arduino | `Beginner` | | |
+|-|Quick refresher on Python 3 | `Intermediate` | | |
+|-| Getting Started with IoT | `Intermediate` | | |
+|-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | |
+|-| Writing a simple web application in `Flask` | `Intermediate` | | |
+|-| Sending sensor value to the web app | `Intermediate` | | |
+|-| Plotting sensor value on the web app | `Intermediate` | | |
+|-| Working with a real server | `Intermediate` | | |
+|-| Getting to know about `MQTT` | `Intermediate` | | |
+|-| Project Distribution | | | |
+|-| Quick Refresher on JavaScript | `Intermediate` | | |
+|-| Introduction to JavaScript Robotics | `Advanced` | | |
+|-| Jhonny-Five Framework Introduction | `Advanced` | | |
+|-| Configuring Arduino with Jhonny-Five | `Advanced` | | |
+|-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | |
 |-| G-H Filter | `Advanced` | | |
 |-| Data Visualization | `Advanced` | | |
 |-| Machine Learning - The Right Way | `Advanced` | |
@@ -216,23 +229,39 @@ Studying this materials will be helpful for participating the workshop.
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="organizer">
-    <h1>Md. Shamim Sarker</h1>
+    <h1><a href="http://www.kuet.ac.bd/eee/shamim" target="_blank">Md. Shamim Sarker</a></h1>
     <h2>Lecturer, Department of EEE</h2>
+
+    <p>
+ He completed his B.Sc in Electrical and Electronic Engineering from Khulna University and Engineering and Technology (KUET) in 2013. Currently he is working as a lecturer at the same department and pursuing his M.Sc here. His research interest is Carbon and 2-D material based devices. In leisure, he listens music, watch movies and read books, especially Humayun Ahmed. 
+    </p>
 
     <br/>
 
     <h1>Al-Amin Badal</h1>
+
     <h2>Department of EEE, 2K11</h2>
+
+    <p>
+    He was one of the lead organizers of the largest tech competition event ever happened at KUET-TechFiesta'16. Even after graduation he has been very much active in organizing tech related workshops, maintaining mars rover project. He is also an electronics hobbyist. 
+    </p>
 
   </div>
   <div class="tab-pane fade" id="mentors">
     <h1>Md. Samiul Haque Sunny</h1>
     <h2>Department of EEE, 2K12</h2>
 
+    <p>
+      Robotics, embedded systems, artifical intelligence, name anything; Samiul has done something on that before. Being a hardware hacker from the first year of his university life, he now also models complicated systems to solve complex problems. He has proficiency in <code>MATLAB, AVR, Arduino, C/C++, Python</code>. He uses Artificial Intelligence on a daily basis to solve domain based problems from Electrical Machines to EEG/EMG analysis by building predictive or generative models. He is also expert in building ensemble machine learning models reinforced with genetic algorithm and general artificial intelligence. In free time he watches movies, plays flute or reads poetry. 
+    </p>
+
     <br/>
 
-    <h1>Manash Kumar Mandal</h1>
+    <h1><a href="http://mandal.manash.me" target="_blank">Manash Kumar Mandal</a></h1>
     <h2>Department of EEE, 2K12</h2>
 
+    <p> 
+      Manash has been working with embedded systems for 3 years now. He has keen interest in firmware development and linux device driver writing. He is more interested in learning probabilistic programming, bayesian reasoning, gaussian process, inferential statistics and computational statistics, feature engineering, dimensionality reduction algorithms and convex optimization. He knows <code>C/C++, Python, Java, JavaScript, R and a bit of MATLAB</code>. He uses GitHub/git services on a daily basis. Currently he is using deep learning methodologies for solving various problems from Bangla Natural Language Processing to Speech Recognition. In free time he watches movies/tv-series or writes technical articles. 
+    </p>
   </div>
 </div>
