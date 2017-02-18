@@ -261,7 +261,7 @@ Studying this materials will be helpful for participating the workshop.
     <h2>Department of EEE, 2K12</h2>
 
     <p>
-      Robotics, embedded systems, artifical intelligence, name anything; Samiul has done something on that before. Being a hardware hacker from the first year of his university life, he now also models complicated systems to solve complex problems. He has proficiency in <code>MATLAB, AVR, Arduino, C/C++, Python</code>. He uses Artificial Intelligence on a daily basis to solve domain based problems from Electrical Machines to EEG/EMG analysis by building predictive or generative models. He is also expert in building ensemble machine learning models reinforced with genetic algorithm and general artificial intelligence. In free time he watches movies, plays flute or reads poetry. 
+      Robotics, embedded systems, artifical intelligence, name anything; Sunny has done something on that before. Being a hardware hacker from the first year of his university life, he now also models complicated systems to solve complex problems. He has proficiency in <code>MATLAB, AVR, Arduino, C/C++, Python</code>. He uses Artificial Intelligence on a daily basis to solve domain based problems from Electrical Machines to EEG/EMG analysis by building predictive or generative models. He is also expert in building ensemble machine learning models reinforced with genetic algorithm and general artificial intelligence. In free time he watches movies, plays flute or reads poetry. 
     </p>
 
     <br/>
