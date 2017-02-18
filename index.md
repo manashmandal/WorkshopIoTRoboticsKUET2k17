@@ -171,29 +171,29 @@ Studying this materials will be helpful for participating the workshop.
 
 > **Outline will be updated from time to time** 
 
-| | Topic | Track | Date | Supplementary Code |
-|-|-------|-------|------|--------------------|
-|-| Introduction to Robotics | `Beginner` | | | 
-|-| Refresher on Arduino | `Beginner` | | |
-|-| Interfacing Components using Arduino | `Beginner` | | |
-|-|Quick refresher on Python 3 | `Intermediate` | | |
-|-| Getting Started with IoT | `Intermediate` | | |
-|-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | |
-|-| Writing a simple web application in `Flask` | `Intermediate` | | |
-|-| Sending sensor value to the web app | `Intermediate` | | |
-|-| Plotting sensor value on the web app | `Intermediate` | | |
-|-| Working with a real server | `Intermediate` | | |
-|-| Getting to know about `MQTT` | `Intermediate` | | |
-|-| Project Distribution | | | |
-|-| Quick Refresher on JavaScript | `Intermediate` | | |
-|-| Introduction to JavaScript Robotics | `Advanced` | | |
-|-| Jhonny-Five Framework Introduction | `Advanced` | | |
-|-| Configuring Arduino with Jhonny-Five | `Advanced` | | |
-|-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | |
-|-| G-H Filter | `Advanced` | | |
-|-| Data Visualization | `Advanced` | | |
-|-| Machine Learning - The Right Way | `Advanced` | |
-|-| Interesting Projects we are working on | | | |
+| | Topic | Track | Date | Supplementary Code | Slide/Note |
+|-|-------|-------|------|--------------------|------------|
+|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day | 
+|2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day |
+|3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | Will be uploaded later that day |
+|-|Quick refresher on Python 3 | `Intermediate` | | | |
+|-| Getting Started with IoT | `Intermediate` | | | |
+|-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | | |
+|-| Writing a simple web application in `Flask` | `Intermediate` | | | |
+|-| Sending sensor value to the web app | `Intermediate` | | | |
+|-| Plotting sensor value on the web app | `Intermediate` | | | |
+|-| Working with a real server | `Intermediate` | | | |
+|-| Getting to know about `MQTT` | `Intermediate` | | | |
+|-| Project Distribution | | | | |
+|-| Quick Refresher on JavaScript | `Intermediate` | | | |
+|-| Introduction to JavaScript Robotics | `Advanced` | | | |
+|-| Jhonny-Five Framework Introduction | `Advanced` | | | |
+|-| Configuring Arduino with Jhonny-Five | `Advanced` | | | |
+|-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | | |
+|-| G-H Filter | `Advanced` | | | |
+|-| Data Visualization | `Advanced` | | | |
+|-| Machine Learning - The Right Way | `Advanced` | | |
+|-| Interesting Projects we are working on | | | | |
 
 
 <br/>
