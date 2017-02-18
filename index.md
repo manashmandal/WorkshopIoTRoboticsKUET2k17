@@ -44,7 +44,7 @@ If any problem occurs during installing the required softwares please contact to
 ## Installation instructions
 ---
 
-The instructions are given assuming you’re all Windows OS users, if you need an instruction for Ubuntu / Linux distros as well; please let the instructors know.
+The instructions are given assuming you’re all Windows OS users, if you need an instruction for Ubuntu / Linux distros as well; please let the mentors know.
 
 > *[Disclaimer: If you’re a Python 2 user and reluctant to change it, I’d suggest you to modify the codes corresponding to your python version]*
 
