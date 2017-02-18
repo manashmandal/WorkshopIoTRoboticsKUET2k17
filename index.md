@@ -141,7 +141,7 @@ Download and install [Visual Studio Code from here.](https://code.visualstudio.c
 
 # 8. NodeJs
 ---
-Depending on your processor architecture(x86/x64) and OS(Windows/Linux) download the corresponding node installer from [here](https://nodejs.org/en/download/){:target="_blank"}then install it using default settings with administrative privilege. 
+Depending on your processor architecture(x86/x64) and OS(Windows/Linux) download the corresponding node installer from [here](https://nodejs.org/en/download/){:target="_blank"} then install it using default settings with administrative privilege. 
 
 If your pc configuration (highlighted) is something like this, ![pc_config](http://i.imgur.com/4M77IAq.png)
 
