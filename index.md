@@ -270,7 +270,7 @@ Studying this materials will be helpful for participating the workshop.
     <h2>Department of EEE, 2K12</h2>
 
     <p> 
-      Manash has been working with embedded systems for 3 years now. He has keen interest in firmware development and linux device driver writing. He is more interested in learning probabilistic programming, bayesian reasoning, gaussian process, inferential statistics and computational statistics, feature engineering, dimensionality reduction algorithms and convex optimization. He knows <code>C/C++, Python, Java, JavaScript, R and a bit of MATLAB</code>. He uses GitHub/git services on a daily basis. Currently he is using deep learning methodologies for solving various problems from Bangla Natural Language Processing to Speech Recognition. In free time he watches movies/tv-series or writes technical articles. 
+      Manash has been working with embedded systems for 3 years now. He has keen interest in firmware development and linux device driver writing. He is more interested in learning probabilistic programming, bayesian reasoning, gaussian process, inferential statistics and computational statistics, feature engineering, dimensionality reduction algorithms and convex optimization. He knows <code>C/C++, Python, Java, JavaScript, R and a bit of MATLAB</code>. He uses GitHub/git services on a daily basis. Currently he is using deep learning methodologies for solving various problems from Bangla Natural Language Processing to Speech Recognition. In free time he watches movies/tv-series or writes technical articles. He is also an avid reader. 
     </p>
   </div>
 </div>
