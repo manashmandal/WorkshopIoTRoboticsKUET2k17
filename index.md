@@ -55,7 +55,7 @@ The instructions are given assuming you’re all Windows OS users, if you need a
 
 Download Python 3 [from here](https://www.python.org/downloads/release/python-360/){:target="_blank"} and install using administrative privilege. Make sure you’ve ticked the option where it says that it will add python to the environment variable.
 
-#### How to check if python is added to the path or not:
+### How to check if python is added to the path or not:
 
 Open a command window, and enter the following command
 
@@ -71,7 +71,7 @@ Python 3.X.X
 
 > Nota Bene: The major version should be `3`, minor version doesn't matter.
 
-#### Troubleshooting
+### Troubleshooting
 
 If python version doesn’t appear at the console then **check if python has been added to the PATH variable or not.** 
 There are a lot of ways to solve the problem. One way is by just googling.
@@ -114,7 +114,7 @@ pip3 install jinja2
 
 Collect the latest Arduino IDE and install it on your computer [from here](https://www.arduino.cc/en/main/software){:target="_blank"}.
 
-#### Make sure:
+### Make sure:
 
 
 > Your Arduino Device is working with the IDE properly.
