@@ -242,7 +242,7 @@ Studying this materials will be helpful for participating the workshop.
     <h2>Lecturer, Department of EEE</h2>
 
     <p>
- He completed his B.Sc in Electrical and Electronic Engineering from Khulna University and Engineering and Technology (KUET) in 2013. Currently he is working as a lecturer at the same department and pursuing his M.Sc here. His research interest is Carbon and 2-D material based devices. In leisure, he listens music, watch movies and read books, especially Humayun Ahmed. 
+ He completed his B.Sc in Electrical and Electronic Engineering from Khulna University and Engineering and Technology (KUET) in 2013. Currently he is working as a lecturer at the same department and pursuing his M.Sc here. His research interest is Carbon and 2-D material based devices. In leisure, he listens music, watches movies and read books, especially Humayun Ahmed. 
     </p>
 
     <br/>
