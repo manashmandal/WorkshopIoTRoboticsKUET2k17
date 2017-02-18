@@ -145,7 +145,7 @@ Depending on your processor architecture(x86/x64) and OS(Windows/Linux) download
 
 If your pc configuration (highlighted) is something like this, ![pc_config](http://i.imgur.com/4M77IAq.png)
 
-You can download directly the application [from here](https://nodejs.org/dist/v6.9.5/node-v6.9.5-x64.msi){:target="_blank"}.  
+You can download directly the application [from here](https://nodejs.org/dist/v6.9.5/node-v6.9.5-x64.msi){:target="_blank"} then install it in your pc.. 
 
 # What you *MUST* bring at the workshop!
 ---
