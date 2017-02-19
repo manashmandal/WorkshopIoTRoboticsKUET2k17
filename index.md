@@ -173,10 +173,10 @@ Studying this materials will be helpful for participating the workshop.
 
 | | Topic | Track | Date | Supplementary Code | Slide/Note |
 |-|-------|-------|------|--------------------|------------|
-|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day | 
-|2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day |
-|3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | Will be uploaded later that day |
-|4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | Will be uploaded later that day | 
+|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
+|2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/1Q9fRW2okzeDwe-klD8H2JJ-3PM1U5JSh2I1XWY-rvRg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/MotorGuide.pdf) |
+|3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1jzMDnAQyjwzWUmop2uBjourhqB4ZsuRFzjQfoD8NZws/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/AGuideToLiPoBatteries.pdf) |
+|4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1GhyBS-c2Z-zAQhNCEq-vcb8Kn6TRZ9VmwUzT0Ydp7jg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/DissectionofArduinoHowtoPoweremUp.pdf) | 
 |-|Quick refresher on Python 3 | `Intermediate` | | | |
 |-| Getting Started with IoT | `Intermediate` | | | |
 |-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | | |
