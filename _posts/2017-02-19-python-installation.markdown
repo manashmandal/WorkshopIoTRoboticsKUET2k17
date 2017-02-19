@@ -56,7 +56,7 @@ python --version
 
 * Click on `PATH` then edit the `Variable Name` line edit. 
 
-![env2](http://i.imgur.com/7fruq8E.png)
+![env2](http://i.imgur.com/mtygt2y.png)
 
 <br/>
 
