@@ -176,6 +176,7 @@ Studying this materials will be helpful for participating the workshop.
 |1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day | 
 |2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | Will be uploaded later that day |
 |3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | Will be uploaded later that day |
+|4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | Will be uploaded later that day | 
 |-|Quick refresher on Python 3 | `Intermediate` | | | |
 |-| Getting Started with IoT | `Intermediate` | | | |
 |-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | | |
@@ -270,7 +271,7 @@ Studying this materials will be helpful for participating the workshop.
     <h2>Department of EEE, 2K12</h2>
 
     <p> 
-      Manash has been working with embedded systems for 3 years now. He has keen interest in firmware development and linux device driver writing. He is more interested in learning probabilistic programming, bayesian reasoning, gaussian process, inferential statistics and computational statistics, feature engineering, dimensionality reduction algorithms and convex optimization. He knows <code>C/C++, Python, Java, JavaScript, R and a bit of MATLAB</code>. He uses GitHub/git services on a daily basis. Currently he is using deep learning methodologies for solving various problems from Bangla Natural Language Processing to Speech Recognition. In free time he watches movies/tv-series or writes technical articles. He is also an avid reader. 
+      Manash has been working with embedded systems for 3 years now. He has keen interest in firmware development and linux device driver writing. He is more interested in learning probabilistic programming, bayesian reasoning, gaussian process, inferential statistics and computational statistics, markov chains, hidden markov models, feature engineering, dimensionality reduction algorithms and convex optimization. He knows <code>C/C++, Python, Java, JavaScript, R and a bit of MATLAB</code>. He uses GitHub/git services on a daily basis. Currently he is using deep learning methodologies for solving various problems from Bangla Natural Language Processing to Speech Recognition. In free time he watches movies/tv-series or writes technical articles. He is also an avid reader. 
     </p>
   </div>
 </div>
