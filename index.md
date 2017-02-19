@@ -76,6 +76,9 @@ Python 3.X.X
 If python version doesn’t appear at the console then **check if python has been added to the PATH variable or not.** 
 There are a lot of ways to solve the problem. One way is by just googling.
 
+## [Read this post if you can't install python ]({{ site.baseurl }}/2017/02/19/python-installation.html)
+
+After installing Python proceed to next steps.
 
 <br/>
 
@@ -93,6 +96,12 @@ Enter the following command
 pip3 install flask
 ```
 
+If that doesn't work try this one, 
+
+```
+pip install flask 
+```
+
 This will automatically download and install flask.
 
 <br/>
@@ -104,6 +113,12 @@ Enter the following command (yes in a command window with administrative privile
 
 ```
 pip3 install jinja2
+```
+
+Again if that doesn't work, try this one 
+
+```
+pip install jinja2
 ```
 
 <br/>
@@ -178,7 +193,7 @@ Studying this materials will be helpful for participating the workshop.
 |3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1jzMDnAQyjwzWUmop2uBjourhqB4ZsuRFzjQfoD8NZws/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/AGuideToLiPoBatteries.pdf) |
 |4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1GhyBS-c2Z-zAQhNCEq-vcb8Kn6TRZ9VmwUzT0Ydp7jg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/DissectionofArduinoHowtoPoweremUp.pdf) | 
 |-|Quick refresher on Python 3 | `Intermediate` | | | |
-|-| Getting Started with IoT | `Intermediate` | | | |
+|-| [Getting Started with IoT]({{ site.baseurl }}/2017/02/19/iot-prep-guide.html){:target="_blank"} | `Intermediate` | | | |
 |-| Configuring `ESP8266` wtih `Arduino` | `Intermediate` | | | |
 |-| Writing a simple web application in `Flask` | `Intermediate` | | | |
 |-| Sending sensor value to the web app | `Intermediate` | | | |
