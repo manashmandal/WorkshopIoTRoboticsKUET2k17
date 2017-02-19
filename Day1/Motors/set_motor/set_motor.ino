@@ -66,6 +66,19 @@ void setup()
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Forward for 2 seconds
+  set_motors(150, 150);
+  delay(2000);
 
+  // Backward for 2 seconds
+  set_motors(-150, -150);
+  delay(2000);
+
+  // Left for 2 seconds
+  set_motors(0, 150);
+  delay(2000);
+
+  // Right for 2 seconds
+  set_motors(150, 0);
+  delay(2000);
 }
