@@ -258,7 +258,7 @@ Studying this materials will be helpful for participating the workshop.
 
   </div>
   <div class="tab-pane fade" id="mentors">
-    <h1>Md. Samiul Haque Sunny</h1>
+    <h1><a href="http://samiulhaque.net23.net/" target="_blank">Md. Samiul Haque Sunny</a></h1>
     <h2>Department of EEE, 2K12</h2>
 
     <p>
