@@ -188,15 +188,15 @@ Studying this materials will be helpful for participating the workshop.
 
 | | Topic | Track | Date | Supplementary Code | Slide/Note |
 |-|-------|-------|------|--------------------|------------|
-|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
+|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
 |2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/1Q9fRW2okzeDwe-klD8H2JJ-3PM1U5JSh2I1XWY-rvRg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/MotorGuide.pdf) |
 |3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1jzMDnAQyjwzWUmop2uBjourhqB4ZsuRFzjQfoD8NZws/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/AGuideToLiPoBatteries.pdf) |
 |4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1GhyBS-c2Z-zAQhNCEq-vcb8Kn6TRZ9VmwUzT0Ydp7jg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/DissectionofArduinoHowtoPoweremUp.pdf) | 
-|5| Quick refresher on Python 3 | `Intermediate` | | | Will be uploaded later that day |
-|6| [Getting Started with IoT]({{ site.baseurl }}/2017/02/19/iot-prep-guide.html){:target="_blank"} | `Intermediate` | | |Will be uploaded later that day |
-|7| Configuring & Debugging `ESP8266` with `USB-TTL PL2303HX` | `Intermediate` | | | Will be uploaded later that day |
-|8| Getting Started With `Flask` | `Intermediate` | | | Will be uploaded later that day | 
-|9| `ESP8266` with Local `Flask` Application | `Intermediate` | | | Will be uploaded later that day |
+|5| Quick refresher on Python 3 | `Intermediate` | | | Will be uploaded later |
+|6| [A Gentle Introduction to IoT]({{ site.baseurl }}/2017/02/19/iot-prep-guide.html){:target="_blank"} | `Intermediate` | | | [Online](https://docs.google.com/presentation/d/1gyCFFUaCVjpO8gjYCOUXAsfcKCULfduK5gAuW5boMW4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/AGentleIntroductiontoIoT.pdf) |
+|7| Configuring & Debugging `ESP8266` with `USB-TTL PL2303HX` | `Intermediate` | | | [Online](https://docs.google.com/presentation/d/1VcuLlRUc8Yu-ihK3D8kfUk17wtbxX5rGFticFXjxPQI/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/DebuggingESP8266withPL2303HX.pdf) |
+|8| Getting Started With `Flask` | `Intermediate` | | | Will be uploaded later | 
+|9| `ESP8266` with Local `Flask` Application | `Intermediate` | | | Will be uploaded later |
 |-| Working with a real server | `Intermediate` | | | |
 |-| Getting to know about `MQTT` | `Intermediate` | | | |
 |-| Project Distribution | | | | |
