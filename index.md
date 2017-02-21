@@ -5,8 +5,7 @@
 layout: default
 ---
 
-<div id="instruction_guide">
-</div>
+
 
 # Worshop Preparation Guide
 ---
@@ -180,6 +179,9 @@ Studying this materials will be helpful for participating the workshop.
 1. [How Web Works](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c?source=bookmarks---------1----------){:target="_blank"}
 2. [Arduino Bangla Book](https://arduino.howtocode.com.bd/){:target="_blank"}
 3. [Python Bangla Book](https://python.howtocode.com.bd/){:target="_blank"}
+
+<div id="workshop_outline">
+</div>
 
 # Workshop Outline 
 ---
