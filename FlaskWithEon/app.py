@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)
 
@@ -19,5 +19,5 @@ def send_value():
     a = request.args.get('a')
     sensorvalue = a 
     print("The value is : " + a)
-    return sensorvalue
+    return redirect(url_for('home'))
 
