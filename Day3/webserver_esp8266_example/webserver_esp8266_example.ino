@@ -56,7 +56,7 @@ void setup() {
   wifi.println(AT_RST + CARRIAGE_RETURN);
   wifi.println("AT+RST\r");
   delay(1000);
-  wifi.println("AT+CWMODE=1");
+  wifi.println("AT+CWMODE=1\r");
   wifi.begin(baud);
   wifi.setTimeout(1000);
 
