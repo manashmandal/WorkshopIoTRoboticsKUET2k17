@@ -192,11 +192,15 @@ You can check out the `Resources` section to find out in which `format` the data
 
 Since the application sends data in a specific format you have to change the code, so that your bot can perform actions according to those commands. 
 
+## Tip:
+
+* You could write some basic `Serial.readStringUntil('\n')` codes to check out the commands sent by the android app. 
+
 ***
 
 # Task 7 : Run the bot 
 
-You should run the bot and give a simple demonstration on how you did it. If possible, make a video.
+Connect the application with the bot and then go for a test run. You should make a video demonstrating on how you built the robot. 
 
 ***
 
