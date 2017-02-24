@@ -190,25 +190,26 @@ Studying this materials will be helpful for participating the workshop.
 
 | | Topic | Track | Date | Supplementary Code | Slide/Note |
 |-|-------|-------|------|--------------------|------------|
-|1| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
-|2| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/1Q9fRW2okzeDwe-klD8H2JJ-3PM1U5JSh2I1XWY-rvRg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/MotorGuide.pdf) |
-|3| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1jzMDnAQyjwzWUmop2uBjourhqB4ZsuRFzjQfoD8NZws/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/AGuideToLiPoBatteries.pdf) |
-|4| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1GhyBS-c2Z-zAQhNCEq-vcb8Kn6TRZ9VmwUzT0Ydp7jg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/DissectionofArduinoHowtoPoweremUp.pdf) | 
-|5| [A Gentle Introduction to IoT]({{ site.baseurl }}/2017/02/19/iot-prep-guide.html){:target="_blank"} | `Intermediate` | 20-Feb | N/A | [Online](https://docs.google.com/presentation/d/1gyCFFUaCVjpO8gjYCOUXAsfcKCULfduK5gAuW5boMW4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/AGentleIntroductiontoIoT.pdf) |
-|6| Configuring & Debugging `ESP8266` with `USB-TTL PL2303HX` | `Intermediate` | 20-Feb | [Arduino with ESP8266](https://gist.github.com/manashmndl/8b92e68aacd85d1daff5bb5f36dae845){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1VcuLlRUc8Yu-ihK3D8kfUk17wtbxX5rGFticFXjxPQI/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/DebuggingESP8266withPL2303HX.pdf) |
-|7| **[Assignment1]({{site.url}}{{site.baseurl}}/2017/02/22/assignment1.html){:target="_blank"}** | `Intermediate` | 22-Feb | [Skeleton Code](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/blob/codes/Day3/webserver_esp8266_example/webserver_esp8266_example.ino){:target="_blank"} | N/A |
-|8| Interacting with the Environment the Digital Way | `Beginner` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3) | [Online](https://docs.google.com/presentation/d/1hJN3MRCQ6TRYmbu17Jv8Tvqi4yMS5Kbo4na9v6garP8/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day3/InteractingwiththeEnvironmenttheDigitalWay.pdf) |
-|-| Solution to Assignment1 | `Intermediate` | | | |
+|01| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
+|02| Interfacing Motors using Arduino | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/1Q9fRW2okzeDwe-klD8H2JJ-3PM1U5JSh2I1XWY-rvRg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/MotorGuide.pdf) |
+|03| A Guide to LiPo Batteries and Chargers | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1jzMDnAQyjwzWUmop2uBjourhqB4ZsuRFzjQfoD8NZws/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/AGuideToLiPoBatteries.pdf) |
+|04| Dissection of Arduino & How to power 'em Up | `Beginner` | 19-Feb | N/A | [Online](https://docs.google.com/presentation/d/1GhyBS-c2Z-zAQhNCEq-vcb8Kn6TRZ9VmwUzT0Ydp7jg/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/DissectionofArduinoHowtoPoweremUp.pdf) | 
+|05| [A Gentle Introduction to IoT]({{ site.baseurl }}/2017/02/19/iot-prep-guide.html){:target="_blank"} | `Intermediate` | 20-Feb | N/A | [Online](https://docs.google.com/presentation/d/1gyCFFUaCVjpO8gjYCOUXAsfcKCULfduK5gAuW5boMW4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/AGentleIntroductiontoIoT.pdf) |
+|06| Configuring & Debugging `ESP8266` with `USB-TTL PL2303HX` | `Intermediate` | 20-Feb | [Arduino with ESP8266](https://gist.github.com/manashmndl/8b92e68aacd85d1daff5bb5f36dae845){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1VcuLlRUc8Yu-ihK3D8kfUk17wtbxX5rGFticFXjxPQI/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day2/DebuggingESP8266withPL2303HX.pdf) |
+|07| **[Assignment1]({{site.url}}{{site.baseurl}}/2017/02/22/assignment1.html){:target="_blank"}** | `Intermediate` | 22-Feb | [Skeleton Code](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/blob/codes/Day3/webserver_esp8266_example/webserver_esp8266_example.ino){:target="_blank"} | N/A |
+|08| Interacting with the Environment the Digital Way | `Beginner` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3) | [Online](https://docs.google.com/presentation/d/1hJN3MRCQ6TRYmbu17Jv8Tvqi4yMS5Kbo4na9v6garP8/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day3/InteractingwiththeEnvironmenttheDigitalWay.pdf) |
+|09| Demo of a Robot (Bluetooth + Android + Accelerometer) | `Intermediate` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3/Bluetooth%20Controlled%20Robot){:target="_blank"} | N/A |
+|10| **[Assignment 2]({{site.url}}{{site.baseurl}}/2017/02/24/assignment2.html){:target="_blank"}** | `Intermediate` | 25-Feb | [`Skeleton Code`](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/voice_controlled_robot_skeleton){:target="_blank"} | N/A |
 |-| Quick refresher on Python 3 | `Intermediate` | | | Will be uploaded later |
 |-| Getting Started With `Flask` | `Intermediate` | | | Will be uploaded later |
 |-| `ESP8266` with Local `Flask` Application | `Intermediate` | | | Will be uploaded later |
 |-| Getting to know about `MQTT` | `Intermediate` | | | |
-|-| Project Distribution | | | | |
 |-| Quick Refresher on JavaScript | `Intermediate` | | | |
 |-| Introduction to JavaScript Robotics | `Advanced` | | | |
 |-| Jhonny-Five Framework Introduction | `Advanced` | | | |
 |-| Configuring Arduino with Jhonny-Five | `Advanced` | | | |
 |-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | | |
+|-| Assignment 3 [IoT & Flask] | `Advanced` | | | |
 |-| G-H Filter | `Advanced` | | | |
 |-| Data Visualization | `Advanced` | | | |
 |-| Machine Learning - The Right Way | `Advanced` | | |
