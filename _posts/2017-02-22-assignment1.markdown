@@ -251,6 +251,8 @@ Roll 1203043 from batch 2K12 has submitted assignment successfully
 
 * If ESP8266 doesn't still respond, disconnect arduino then connect it again, check the serial monitor if the baud has been set to `115200` or not and the line ending must be `CR & NL`
 
+* If the ESP8266 responds but can't connect to the web then **USE A USB-TTL to set the Chip mode by this command `AT+CWMODE=1\n\r`, then reset the module and try using it with an arduino. 
+
 <br/>
 
 ## Note: 

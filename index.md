@@ -200,14 +200,10 @@ Studying this materials will be helpful for participating the workshop.
 |08| Interacting with the Environment the Digital Way | `Beginner` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3) | [Online](https://docs.google.com/presentation/d/1hJN3MRCQ6TRYmbu17Jv8Tvqi4yMS5Kbo4na9v6garP8/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day3/InteractingwiththeEnvironmenttheDigitalWay.pdf) |
 |09| Demo of a Robot (Bluetooth + Android + Accelerometer) | `Intermediate` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3/Bluetooth%20Controlled%20Robot){:target="_blank"} | N/A |
 |10| **[Assignment 2]({{site.url}}{{site.baseurl}}/2017/02/24/assignment2.html){:target="_blank"}** | `Intermediate` | 25-Feb | [`Skeleton Code`](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/voice_controlled_robot_skeleton){:target="_blank"} | N/A |
-|-| Quick refresher on Python 3 | `Intermediate` | | | Will be uploaded later |
-|-| Getting Started With `Flask` | `Intermediate` | | | Will be uploaded later |
+|11| Getting Started With `Flask` | `Intermediate` | - | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/blob/codes/Day4/flask_app/){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1fcDJudWKSmUvRftyngovFUYIbZFRsNzc_fn3OFvbteU/edit?usp=sharing){:target="_blank"} [PDF](){:target="_blank"} |
+|12| Introduction to JavaScript IoT & Robotics - Part I | `Advanced` | - | [Day4](){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1ToTlVCmHxwhfyye4VPNEF7NVkEVzKSjzzJiRhVBbHKw/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTRobotics-PartIJhonny-FiveFramework.pdf){:target="_blank"}  |
 |-| `ESP8266` with Local `Flask` Application | `Intermediate` | | | Will be uploaded later |
 |-| Getting to know about `MQTT` | `Intermediate` | | | |
-|-| Quick Refresher on JavaScript | `Intermediate` | | | |
-|-| Introduction to JavaScript Robotics | `Advanced` | | | |
-|-| Jhonny-Five Framework Introduction | `Advanced` | | | |
-|-| Configuring Arduino with Jhonny-Five | `Advanced` | | | |
 |-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | | |
 |-| Assignment 3 [IoT & Flask] | `Advanced` | | | |
 |-| G-H Filter | `Advanced` | | | |
