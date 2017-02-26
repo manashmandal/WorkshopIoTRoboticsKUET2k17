@@ -201,19 +201,10 @@ Studying this materials will be helpful for participating the workshop.
 |09| Demo of a Robot (Bluetooth + Android + Accelerometer) | `Intermediate` | 22-Feb | [Day3](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day3/Bluetooth%20Controlled%20Robot){:target="_blank"} | N/A |
 |10| **[Assignment 2]({{site.url}}{{site.baseurl}}/2017/02/24/assignment2.html){:target="_blank"}** | `Intermediate` | 25-Feb | [`Skeleton Code`](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/voice_controlled_robot_skeleton){:target="_blank"} | N/A |
 |11| Getting Started With `Flask` | `Intermediate` | - | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/blob/codes/Day4/flask_app/){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1fcDJudWKSmUvRftyngovFUYIbZFRsNzc_fn3OFvbteU/edit?usp=sharing){:target="_blank"} [PDF](){:target="_blank"} |
-|12| Introduction to JavaScript IoT & Robotics - Part I | `Advanced` | - | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/johnny_five_led_app){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1ToTlVCmHxwhfyye4VPNEF7NVkEVzKSjzzJiRhVBbHKw/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTRobotics-PartIJhonny-FiveFramework.pdf){:target="_blank"}  |
-|-| `ESP8266` with Local `Flask` Application | `Intermediate` | | | Will be uploaded later |
-|-| Getting to know about `MQTT` | `Intermediate` | | | |
-|-| IoT with JavaScript, Jhonny-Five & Arduino | `Advanced` | | | |
-|-| Assignment 3 [IoT & Flask] | `Advanced` | | | |
-|-| G-H Filter | `Advanced` | | | |
-|-| Data Visualization | `Advanced` | | | |
-|-| Machine Learning - The Right Way | `Advanced` | | |
-|-| Interesting Projects we are working on | | | | |
-
-<!--|-| Writing a simple web application in `Flask` | `Intermediate` | | | |
-|-| Sending sensor value to the web app | `Intermediate` | | | |
-|-| Plotting sensor value on the web app | `Intermediate` | | | |-->
+|12| Introduction to JavaScript IoT & Robotics - Part I | `Advanced` | 26-Feb | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/johnny_five_led_app){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1ToTlVCmHxwhfyye4VPNEF7NVkEVzKSjzzJiRhVBbHKw/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTRobotics-PartIJhonny-FiveFramework_2.pdf){:target="_blank"}  |
+|13| Introduction to JavaScript IoT & Robotics - Part II | `Advanced` |  26-Feb | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/johnny_five_connect_web_app){:target="_blank"} | [Online](https://docs.google.com/presentation/d/10EHLtlzRahTHYHcUivCRkl31OabkydYL0MzZuQ_H0jM/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTJohnny-Five.pdf){:target="_blank"}  |
+|14| Getting to know about `MQTT` | `Intermediate` | 26-Feb | N/A | [Online](https://docs.google.com/presentation/d/1KyMNO-6RXSIqJEYVvxAFIim06ycRxrWhRxoOvUkps5Q/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/IntroductiontoMQTT.pdf){:target="_blank"} |
+|-| Assignment 3 [IoT & Flask] | `Advanced` | -- | -- | N/A |
 
 
 
