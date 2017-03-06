@@ -69,3 +69,27 @@
 ### #4
 
 **#4.a -> http://d3plus.org/examples/basic/9029781/**
+
+**#4.b -> http://d3plus.org/examples/advanced/014b7aa9b5727a283dab/**
+
+**#4.c -> http://d3plus.org/examples/advanced/9925661488cdc1828a2c/**
+
+**#4.d -> http://www.chartjs.org/docs/#line-chart-example-usage**
+
+### #5
+
+**#5.a -> http://www.chartjs.org/docs/#bar-chart-example-usage**
+
+**#5.b -> http://www.chartjs.org/docs/#polar-area-chart-example-usage**
+
+**#5.c -> http://www.chartjs.org/docs/#bubble-chart-example-usage**
+
+**#5.d -> https://plot.ly/javascript/line-and-scatter/**
+
+### #6
+
+**#6.a -> https://plot.ly/javascript/gauge-charts/**
+
+**#6.b -> https://plot.ly/javascript/filled-area-plots/**
+
+**#6.c -> http://d3plus.org/examples/basic/9037371/**
