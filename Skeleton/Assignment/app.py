@@ -1,11 +1,8 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import render_template, Flask, request, url_for
 
 app = Flask(__name__)
 
-# Participant 
-name = "Name"
-
-values = {}
+values = []
 
 @app.route('/')
 def home():
@@ -20,9 +17,12 @@ def viz():
 @app.route('/send_value', methods=['GET'])
 def send_value():
     global values 
-    values['name'] = request.args.get('name')
-    values['target'] = request.args.get('target')
-    values['x'] = request.args.get('x')
-    values['y'] = request.args.get('y')
+    temp_dict = {}
+    temp_dict['name'] = request.args.get('name')
+    temp_dict['target'] = request.args.get('target')
+    temp_dict['x'] = request.args.get('x')
+    temp_dict['y'] = request.args.get('y')
+    
+    values.append(temp_dict)
 
-    return values['name']
+    return render_template('render_values.html', data_list=values)
