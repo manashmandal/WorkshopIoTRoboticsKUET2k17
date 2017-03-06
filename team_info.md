@@ -35,3 +35,30 @@
 ## Summary 
 
 1. Number of participants - **21**
+
+
+## Assigned Visualization 
+
+### #1
+
+**#1.a -> http://d3plus.org/examples/advanced/8b478ec65252e6f2c9bc/**
+**#1.b -> http://d3plus.org/examples/basic/33fc382f1f1913682ec1/**
+
+### #2
+
+**#2.a -> http://d3plus.org/examples/basic/9029462/**
+**#2.b -> https://d3plus.org/examples/basic/b197f489fb0fc2093fee**
+**#2.c -> http://d3plus.org/examples/advanced/929be3aef3295d9e0acd/**
+**#2.d -> http://d3plus.org/examples/basic/32517cfde67270c99092/**
+
+
+### #3
+
+**#3.a -> http://d3plus.org/examples/advanced/10503491/**
+**#3.b -> http://d3plus.org/examples/basic/9037371/**
+**#3.c -> http://d3plus.org/examples/basic/5c57d9d71aa309d180c2/**
+**#3.d -> http://d3plus.org/examples/advanced/e5118249368742492722/**
+
+### #4
+
+**#4.a -> http://d3plus.org/examples/basic/9029781/**
