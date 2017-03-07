@@ -18,11 +18,13 @@ def home():
     return render_template('welcome.html', name=name)
 
 
+# Visit this route to see vizualization
 @app.route('/viz')
 def viz():
     return render_template('plot.html', name=name)
 
 
+# Change this code snippet 
 @app.route('/send_value', methods=['GET'])
 def send_value():
     global values 
@@ -36,15 +38,22 @@ def send_value():
     temp_dict['#'] = data_count
     values.append(temp_dict)
 
-    return render_template('render_values.html', data_list=values)
+    return render_template('view_data.html', data_list=values)
 
 
+# View data table 
 @app.route('/view_data')
 def view_data():
     return render_template('view_data.html', data_list=values)
 
+
+# Visiting this route will reset data 
 @app.route('/reset')
 def reset_data():
+    global data_count
+    global values 
+
     data_count = 0
+
     values = []
-    return redirect('view_data')
+    return redirect(url_for('view_data', data_list=values))
