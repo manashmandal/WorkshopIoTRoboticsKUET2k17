@@ -11,7 +11,7 @@ $(document).ready(function() {
         names.push($(this).text());
     });
 
-    // Getting x position
+    // Getting value
     $(".value").each(function() {
         values.push($(this).text());
     });
@@ -21,9 +21,10 @@ $(document).ready(function() {
 
     len = names.length;
 
-    //Position and connection arrray 
+    //data array  
     var data = [];
 
+    // Inserting data 
     for (var i = 0; i < len; i++) {
         data.push({
             "name": names[i],
