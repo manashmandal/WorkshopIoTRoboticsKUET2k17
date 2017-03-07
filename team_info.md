@@ -1,9 +1,9 @@
 # Team Id #1
-	**a. Abdullah Al Masud Pranto - CE2K15**
-	b. Shahidul Shakib - CSE2K15
+	**a. Abdullah Al Masud Pranto - CE2K15** - Assignment READY
+	b. Shahidul Shakib - CSE2K15 - Assignment READY
 
 # Team Id #2
-	**a. Naeem Mohammad - EEE2K14**
+	**a. Naeem Mohammad - EEE2K14** - Assignment READY
 	b. Zabir Al Nazi Nabil - ECE2K14
 	c. Toufiq Elahi - EEE2K14
 	d. Mehedi Hasan - EEE2K13
