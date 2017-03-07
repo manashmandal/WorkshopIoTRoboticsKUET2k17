@@ -1,8 +1,8 @@
-//Getting data from table 
-
+//Getting data from table and visualize it 
 $(document).ready(function() {
     var variable = '';
 
+    var len = 0;
 
     var names = [];
     var xpos = [];
@@ -11,55 +11,55 @@ $(document).ready(function() {
 
     //Getting name 
     $(".name").each(function() {
-        names = names.concat($(this).text());
+        names.push($(this).text());
     });
 
     // Getting x position
     $(".xpos").each(function() {
-        xpos = xpos.concat($(this).text());
+        xpos.push($(this).text());
     });
 
     // Getting y position
     $(".ypos").each(function() {
-        ypos = ypos.concat($(this).text());
+        ypos.push($(this).text());
     });
 
     // Getting target 
     $(".target").each(function() {
-        targets = targets.concat($(this).text());
+        targets.push($(this).text());
     });
 
 
-    // console.log(names);
+    len = names.length;
 
-    console.log(names);
+    //Position and connection arrray 
+    var positions = [];
+    var connections = [];
 
-    // create list of node positions
-    var positions = [
-            { "name": names[0], "x": 10, "y": 4 },
-            { "name": names[1], "x": 12, "y": 24 },
-            { "name": names[2], "x": 17, "y": 14 }
-        ]
-        // create list of node connections
-    var connections = [
-            { "source": names[0], "target": names[1] },
-            { "source": "alpha", "target": "gamma" }
-        ]
-        // instantiate d3plus
-    var visualization = d3plus.viz()
-        .container("#viz")
-        .type("network")
-        .nodes(positions)
-        .edges(connections)
-        .id("name")
-        .draw()
-        // After 2 seconds, add another node and connection!
-    setTimeout(function() {
-        positions.push({ "name": "delta", "x": 26, "y": 21 })
-        connections.push({ "source": "beta", "target": "delta" })
-        visualization
+    for (var i = 0; i < len; i++) {
+        positions.push({
+            "name": names[i],
+            "x": +xpos[i],
+            "y": +ypos[i]
+        });
+
+        connections.push({
+            "source": names[i],
+            "target": targets[i]
+        });
+    }
+
+    console.log(positions);
+
+    if (len > 0) {
+        var visualization = d3plus.viz()
+            .container("#viz")
+            .type("network")
             .nodes(positions)
             .edges(connections)
-            .draw()
-    }, 2000);
+            .id("name")
+            .draw();
+    } else {
+        $("#viz").html("</br><h1>Enter data to see visualization</h1>");
+    }
 });
