@@ -25,4 +25,4 @@ setTimeout(function() {
         .nodes(positions)
         .edges(connections)
         .draw()
-}, 2000)
+}, 2000);
