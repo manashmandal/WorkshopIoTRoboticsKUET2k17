@@ -31,7 +31,7 @@ def home():
     2. cn
     3. cc
 
-Which stands for Component Group, Component Name, Component Count responsively.
+Which stands for Component Group, Component Name, Component Count.
 
 * Create a dictionary containing the parameters as the given keys, then simply add the corresponding values. 
 
