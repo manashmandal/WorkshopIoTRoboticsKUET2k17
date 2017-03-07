@@ -8,6 +8,7 @@ from flask import (
 
 app = Flask(__name__)
 
+# Variable to hold data without database 
 values = []
 data_count = 0
 
