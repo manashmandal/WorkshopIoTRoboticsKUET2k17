@@ -47,7 +47,7 @@
 
 ### #2
 
-**#2.a -> http://d3plus.org/examples/basic/9029462/**
+**#2.a -> http://d3plus.org/examples/advanced/014b7aa9b5727a283dab/**
 
 **#2.b -> https://d3plus.org/examples/basic/b197f489fb0fc2093fee**
 
@@ -60,21 +60,21 @@
 
 **#3.a -> http://d3plus.org/examples/advanced/10503491/**
 
-**#3.b -> http://d3plus.org/examples/basic/9037371/**
+**#3.b -> http://d3plus.org/examples/advanced/e5118249368742492722/**
 
-**#3.c -> http://d3plus.org/examples/basic/5c57d9d71aa309d180c2/**
+**#3.c -> http://www.chartjs.org/docs/#line-chart-example-usage**
 
-**#3.d -> http://d3plus.org/examples/advanced/e5118249368742492722/**
+**#3.d -> http://d3plus.org/examples/basic/9037371/**
 
 ### #4
 
-**#4.a -> http://d3plus.org/examples/basic/9029781/**
+**#4.a -> http://d3plus.org/examples/advanced/9925661488cdc1828a2c/**
 
-**#4.b -> http://d3plus.org/examples/advanced/014b7aa9b5727a283dab/**
+**#4.b -> http://d3plus.org/examples/basic/9029462/**
 
-**#4.c -> http://d3plus.org/examples/advanced/9925661488cdc1828a2c/**
+**#4.c -> http://d3plus.org/examples/basic/9029781/**
 
-**#4.d -> http://www.chartjs.org/docs/#line-chart-example-usage**
+**#4.d -> http://d3plus.org/examples/basic/5c57d9d71aa309d180c2/**
 
 ### #5
 
