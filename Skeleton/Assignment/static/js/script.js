@@ -42,11 +42,16 @@ $(document).ready(function() {
             "x": +xpos[i],
             "y": +ypos[i]
         });
+    }
 
-        connections.push({
-            "source": names[i],
-            "target": targets[i]
-        });
+    //Making the connection 
+    if (len > 1) {
+        for (var i = 1; i < len; i++) {
+            connections.push({
+                "source": names[0],
+                "target": names[i]
+            });
+        }
     }
 
     console.log(positions);
