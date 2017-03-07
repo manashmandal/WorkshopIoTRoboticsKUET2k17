@@ -43,9 +43,8 @@ https://www.youtube.com/watch?v=2j7ox_zqM4g
 def send_value():
     # Values MUST be a PYTHON LIST OF DICTIONARIES
         # Example, values = [
-        # {"name":"your name", "x" : 10, "y" : 10, "target" : "roll", "#":1},
-        # {"name" : "another" ,  "x" : 30, "y" : 0, "target" : "your name", "#": 2}
-        # 
+        # {"name":"your name", "#" : 1, "value" : 100},
+        # {"name":"your batch", "#" : 2, "value" : 100}
         # ]
     global values 
 
