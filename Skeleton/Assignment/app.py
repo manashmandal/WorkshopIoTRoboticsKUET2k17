@@ -12,17 +12,11 @@ app = Flask(__name__)
 values = []
 data_count = 0
 
-name = "Your Name"
+_name_ = "Your Name"
 
 @app.route('/')
 def home():
-    return render_template('welcome.html', name=name)
-
-
-# Visit this route to see vizualization
-@app.route('/viz')
-def viz():
-    return render_template('plot.html', name=name)
+    return render_template('welcome.html', name=_name_)
 
 
 # Change this code snippet 
@@ -47,13 +41,13 @@ def send_value():
         temp_dict['#'] = data_count
         values.append(temp_dict)
 
-    return render_template('view_data.html', data_list=values, name=name)
+    return render_template('view_data.html', data_list=values, name=_name_)
 
 
 # View data table 
 @app.route('/view_data')
 def view_data():
-    return render_template('view_data.html', data_list=values, name=name)
+    return render_template('view_data.html', data_list=values, name=_name_)
 
 
 # Visiting this route will reset data 
