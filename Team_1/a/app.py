@@ -6,6 +6,8 @@ from flask import (
                    redirect
                    )
 
+
+
 app = Flask(__name__)
 
 # Variable to hold data without database 
@@ -19,13 +21,34 @@ def home():
     return render_template('welcome.html', name=_name_)
 
 
-# Change this code snippet 
+
+"""The parameters are 
+    1. name
+    2. x
+    3. y
+    4. target
+
+* Create a dictionary containing the parameters as the given keys, then simply add the corresponding values. 
+
+* So the dictionary MUST contain the following keys [DON'T CHANGE CASE OR SPELLING, KEEP IT AS IT IS]: 
+    1. name 
+    2. x
+    3. y
+    4. target 
+    5. #
+
+* A guide for python dictionary : https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries
+
+* Video Tutorial on python dictionary: 
+https://www.youtube.com/watch?v=2j7ox_zqM4g
+
+"""
 @app.route('/send_value', methods=['GET'])
 def send_value():
     # Values MUST be a PYTHON LIST OF DICTIONARIES
         # Example, values = [
-        # {"name":"your name", "x" : 10, "y" : 10, "target" : "roll"},
-        # {"name" : "another" ,  "x" : 30, "y" : 0, "target" : "your name" }
+        # {"name":"your name", "x" : 10, "y" : 10, "target" : "roll", "#":1},
+        # {"name" : "another" ,  "x" : 30, "y" : 0, "target" : "your name", "#": 2}
         # 
         # ]
     global values 
