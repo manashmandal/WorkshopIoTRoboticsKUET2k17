@@ -51,7 +51,7 @@ $(document).ready(function() {
 
     console.log(positions);
 
-    if (len > 0) {
+    if (len > 1) {
         var visualization = d3plus.viz()
             .container("#viz")
             .type("network")
@@ -60,6 +60,6 @@ $(document).ready(function() {
             .id("name")
             .draw();
     } else {
-        $("#viz").html("</br><h1>Enter data to see visualization</h1>");
+        $("#viz").html("</br><h1>Enter at least <b>TWO</b> data to see visualization</h1>");
     }
 });
