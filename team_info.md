@@ -69,9 +69,9 @@
 
 ### #4
 
-**#4.a -> http://d3plus.org/examples/advanced/9925661488cdc1828a2c/**
+**#4.a -> http://d3plus.org/examples/basic/9029462/**
 
-**#4.b -> http://d3plus.org/examples/basic/9029462/**
+**#4.b -> http://d3plus.org/examples/advanced/9925661488cdc1828a2c/**
 
 **#4.c -> http://d3plus.org/examples/basic/9029781/**
 
