@@ -30,6 +30,7 @@
 	**a. Debopriya Roy Dipta - EEE2K13**
 	b. Ragib Al Hasan - EEE2K12
 	c. Golam Rabby - EEE2K12
+	d. Ashik Mostofa Tonmoy - ECE2K15
 
 
 ## Summary 
