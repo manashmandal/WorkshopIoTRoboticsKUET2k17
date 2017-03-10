@@ -11,7 +11,7 @@ from flask import (
 app = Flask(__name__)
 
 parameters = "sensor, value"
-image_url = "http://i.imgur.com/BWN8jVF.png"
+image_url = "http://i.imgur.com/u5txJhk.png"
 
 
 # Variable to hold data without database 
