@@ -11,7 +11,7 @@ from flask import (
 app = Flask(__name__)
 
 parameters = "source, target, strength"
-image_url = "http://i.imgur.com/fI0ZZxC.png"
+image_url = "http://i.imgur.com/spIOPFN.png"
 
 
 # Variable to hold data without database 
@@ -36,6 +36,7 @@ def home():
     1. source
     2. target
     3. strength
+    4. #
 
 * A guide for python dictionary : https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries
 
@@ -53,7 +54,7 @@ def send_value():
     # Hint: data_count += 1 
 
     # Implement your GET parameter parsing code here 
-    
+
     return render_template('view_data.html', data_list=values, name=_name_)
 
 
