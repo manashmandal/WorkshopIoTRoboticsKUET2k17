@@ -7,7 +7,7 @@ layout: default
 
 
 
-# Worshop Preparation Guide
+# Workshop Preparation Guide
 ---
 
 <div class="panel panel-primary">
