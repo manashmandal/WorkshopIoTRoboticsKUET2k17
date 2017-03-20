@@ -204,9 +204,16 @@ Studying this materials will be helpful for participating the workshop.
 |12| Introduction to JavaScript IoT & Robotics - Part I | `Advanced` | 26-Feb | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/johnny_five_led_app){:target="_blank"} | [Online](https://docs.google.com/presentation/d/1ToTlVCmHxwhfyye4VPNEF7NVkEVzKSjzzJiRhVBbHKw/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTRobotics-PartIJhonny-FiveFramework_2.pdf){:target="_blank"}  |
 |13| Introduction to JavaScript IoT & Robotics - Part II | `Advanced` |  26-Feb | [Day4](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/codes/Day4/johnny_five_connect_web_app){:target="_blank"} | [Online](https://docs.google.com/presentation/d/10EHLtlzRahTHYHcUivCRkl31OabkydYL0MzZuQ_H0jM/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/JavaScriptIoTJohnny-Five.pdf){:target="_blank"}  |
 |14| Getting to know about `MQTT` | `Intermediate` | 26-Feb | N/A | [Online](https://docs.google.com/presentation/d/1KyMNO-6RXSIqJEYVvxAFIim06ycRxrWhRxoOvUkps5Q/edit?usp=sharing){:target="_blank"} [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day4/IntroductiontoMQTT.pdf){:target="_blank"} |
-|-| Assignment 3 [IoT & Flask] | `Advanced` | -- | -- | N/A |
+|15| Assignment 3 [IoT & Flask] | `Advanced` | `Deadline: 30 March 2017` | [Starter Code](http://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/tree/assignments){:target="_blank"} | N/A |
 
+# Hall of Fame
 
+## List of people completed assignment 3 successfully
+
+| # | Name | Dept |  Batch | Application URL | 
+|---|------|------|--------|-----------------|
+|1| Rakibul Rakib | EEE | 2K14 | http://rakibulrakib.pythonanywhere.com/ |
+|2| Zabir Al Nazi Nabil | ECE | 2K14 |http://furcifer.pythonanywhere.com/ | 
 
 
 <br/>
