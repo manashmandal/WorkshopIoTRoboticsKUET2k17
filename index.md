@@ -29,7 +29,7 @@ If any problem occurs during installing the required softwares please contact to
 ---
 
 * Python 3
-* Flask Library
+* Flask Web Framework
 * Jinja2 Template Engine
 * Arduino IDE
 * PyCharm IDE
@@ -82,7 +82,7 @@ After installing Python proceed to next steps.
 <br/>
 
 
-# 2. Flask library
+# 2. Flask Web Framework
 ---
 
 Flask is a simple Python based micro-framework for developing web applications. [If you don’t understand what I’m saying, don’t need to worry, I’ll clear everything before diving deeper] 
