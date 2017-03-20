@@ -186,8 +186,6 @@ Studying this materials will be helpful for participating the workshop.
 # Workshop Outline 
 ---
 
-> **Outline will be updated from time to time** 
-
 | | Topic | Track | Date | Supplementary Code | Slide/Note |
 |-|-------|-------|------|--------------------|------------|
 |01| Introduction to Robotics | `Beginner` | 19-Feb | [Day 1](https://bit.ly/workshop_day1) | [Online](https://docs.google.com/presentation/d/18Alf93NKGcMXbftRxnuWWMisbaGKnQLYVCYqdjeK1z4/edit?usp=sharing) [PDF](https://github.com/manashmndl/WorkshopIoTRoboticsKUET2k17/raw/slides/Day1/BasicRobotics.pdf) | 
