@@ -18,7 +18,7 @@ image_url = "http://i.imgur.com/nyeD56Y.png"
 values = []
 data_count = 0
 
-_name_ = "Toufiq Elahi"
+_name_ = "Toufick Elahi"
 
 @app.route('/')
 def home():
