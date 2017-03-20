@@ -212,8 +212,8 @@ Studying this materials will be helpful for participating the workshop.
 
 | # | Name | Dept |  Batch | Application URL | 
 |---|------|------|--------|-----------------|
-|1| Rakibul Rakib | EEE | 2K14 | http://rakibulrakib.pythonanywhere.com/ |
-|2| Zabir Al Nazi Nabil | ECE | 2K14 |http://furcifer.pythonanywhere.com/ | 
+|1| Rakibul Rakib | EEE | 2K14 | [http://rakibulrakib.pythonanywhere.com/](http://rakibulrakib.pythonanywhere.com/) |
+|2| Zabir Al Nazi Nabil | ECE | 2K14 | [http://furcifer.pythonanywhere.com/](http://rakibulrakib.pythonanywhere.com/) | 
 
 
 <br/>
