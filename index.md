@@ -212,6 +212,7 @@ Studying this materials will be helpful for participating the workshop.
 |---|------|------|--------|-----------------|
 |1| Rakibul Rakib | EEE | 2K14 | [http://rakibulrakib.pythonanywhere.com/](http://rakibulrakib.pythonanywhere.com/) |
 |2| Zabir Al Nazi Nabil | ECE | 2K14 | [http://furcifer.pythonanywhere.com/](http://furcifer.pythonanywhere.com/) | 
+|3| Samiul Islam | EEE | 2K14 | [http://samiul.pythonanywhere.com/](http://samiul.pythonanywhere.com/) |
 
 
 <br/>
